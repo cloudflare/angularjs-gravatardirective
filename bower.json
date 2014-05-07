@@ -8,7 +8,8 @@
         "scripts",
         "src",
         "test",
-        "karma-unit.conf.js"
+        "karma-unit.conf.js",
+        "Gruntfile.js"
     ],
     "dependencies": {
         "angular": "~1.2.12"
